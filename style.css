@@ -1,0 +1,26 @@
+body {
+  background: black;
+}
+
+h1 {
+    color: beige;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+}
+
+a {
+    font-family: fantasy;
+    color: aqua;
+    font-size: 250%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 5%;
+}
